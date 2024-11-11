@@ -1,0 +1,9 @@
+git remote add origin https://github.com/aadams85/intro-to-javascript-arrays-lab.git
+git branch -M main
+git push -u origin main
+git clone https://github.com/<your-username>/intro-to-javascript-arrays-lab.git
+cd intro-to-javascript-arrays-lab
+touch app.js index.html
+code .
+<script defer src="./app.js"></script>
+node app.js
